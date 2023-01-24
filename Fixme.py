@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-ef factorial(n):
+def factorial(n):
     '''
     Returns the product of all numbers from 1 to n.
 
