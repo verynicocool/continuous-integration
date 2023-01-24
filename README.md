@@ -176,10 +176,10 @@ $ git add Fixme.py
 $ git commit
 $ git push origin master
 ```
-As soon as you run the push command, github will automatically start running your code against 4 different versions of python (versions 3.6, 3.7, 3.8, and 3.9).
+As soon as you run the push command, github will automatically start running your code against 3 different versions of python (versions 3.7, 3.8, and 3.9).
 Click the "actions" button at the top of your forked project webpage to see the results.
 
-You should see 4 green "builds" indicating that your program passed all test cases for each python version tested.
+You should see 3 green "builds" indicating that your program passed all test cases for each python version tested.
 If you see any red builds, then something went wrong, and you need to fix that problem before continuing.
 
 ### The CI badge
